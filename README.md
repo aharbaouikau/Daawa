@@ -86,6 +86,3 @@ Modern multilingual Dawah platform based on cards, videos, texts and social shar
 - Punjabi
 - Portuguese
 
-## License
-
-MIT
